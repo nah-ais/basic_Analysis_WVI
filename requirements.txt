@@ -1,3 +1,4 @@
+streamlit>=1.30.0
 pandas
 plotly
-streamlit
+altair<5.0.0  # Jika error Altair tetap muncul di versi lama
